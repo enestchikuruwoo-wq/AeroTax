@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Elegant Emerald Shield Ring (Safe-Audit boundary) -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M54,20 A34,34 0 1,0 54,88 A34,34 0 1,0 54,20 Z M54,26 A28,28 0 1,1 54,82 A28,28 0 1,1 54,26 Z" />
+    
+    <!-- Bold, Precision Trend Chart Arrow (Representing capital reporting) -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M38,62 L48,52 L58,58 L72,40 L64,40 L64,36 L76,36 L76,48 L72,48 L72,43 L58,62 L48,56 L40,64 Z" />
+</vector>
